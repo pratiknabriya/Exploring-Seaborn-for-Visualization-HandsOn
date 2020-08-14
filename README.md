@@ -15,4 +15,4 @@ Exploring various plotting methods available in Seaborn API for statistical data
     - https://seaborn.pydata.org/api.html
     
 ### Datasets
-https://github.com/mwaskom/seaborn-data
+    - https://github.com/mwaskom/seaborn-data
